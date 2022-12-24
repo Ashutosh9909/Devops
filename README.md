@@ -1,2 +1,0 @@
-# Devops
-For Practice Purpose
